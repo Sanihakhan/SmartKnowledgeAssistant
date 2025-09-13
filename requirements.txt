@@ -1,0 +1,13 @@
+openai
+langchain
+llama-index
+PyMuPDF
+mail-parser
+beautifulsoup4
+faiss-cpu
+streamlit
+python-dotenv
+langchain-community
+langchain-openai
+langchain-community
+
